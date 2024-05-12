@@ -28,9 +28,9 @@
 2. Contextual Understanding: Keeping track of previous conversations allows the chatbot to better understand the context of current queries, leading to more accurate and relevant responses.
 3. Seamless Continuity: Users can pick up where they left off in previous conversations, ensuring a seamless and continuous dialogue with the chatbot, even across multiple sessions.
 
-_Prompt example 1. Stay within the current theme of the conversation and create an abstract image that represents the concept of fluidity and audacity in 3D._
+_Prompt example 1. What are the key differences between excitatory and inhibitory neurotransmitters, and how do they contribute to neuronal signaling and brain function?_
 
-_Prompt example 2. Staying within the current conversation, create a story destined to endure the ages._
+_Prompt example 2. Staying within the current conversation, what are the neurological underpinnings of psychiatric disorders such as schizophrenia, depression, and bipolar disorder, and what insights do they provide for developing novel and innovative treatments?._
 
 
 ### <ins>Conceptual flow of Terraforming process</ins>
