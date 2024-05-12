@@ -37,4 +37,50 @@
 
 
 
+## <ins>How-to terraforming Meta AI:</ins>
+
+### Pre-clone steps:
+
+- > install aws-cli
+- 	> how-to: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+- > aws configure (update your secret key)
+
+########### IMPORTANT STEP ################
+- > aws ec2 create-key-pair --key-name YourKeyName --query 'KeyMaterial' --output text > YourKeyName.pem
+
+- > install terraform 
+- 	> how-to: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+
+
+### Cloning Steps:
+
+- > git clone https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure.git
+- > cd terraform
+
+- > (edit tf file, if needed)
+
+- > terraform init
+- > terraform validate
+- > terraform plan
+- > terraform apply
+- 	> remember to type 'yes'
+
+
+### Access to the OLLMA/LLMA3 platform:
+- > check for "public dns", ex. ec2-xx-xx-xx-xx.ca-central-1.compute.amazonaws.com
+- 	> how-to ssh to the pulic dns: >ssh -i "YourKeyName.pem" ubuntu@ec2-xx-xx-xx-xx.ca-central-1.compute.amazonaws.com
+
+### Run META AI Llama3:
+
+- > ollama run llama3
+
+### Finally clean up
+
+(option to destroy)
+- > terraform destroy
+
+![image](https://github.com/ubc-tuehoang/Terraform-META-AI-to-a-Specific-AMI-on-AWS/assets/86985864/3d6aa45d-df03-4c51-acce-fd40ddb341f3)
+
+
 EOF
