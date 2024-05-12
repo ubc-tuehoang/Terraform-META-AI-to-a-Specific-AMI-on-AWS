@@ -89,6 +89,7 @@ _Prompt example 2. Staying within the current conversation, what are the neurolo
 ![image](https://github.com/ubc-tuehoang/Terraform-META-AI-to-a-Specific-AMI-on-AWS/assets/86985864/3d6aa45d-df03-4c51-acce-fd40ddb341f3)
 
 
+
 _NOTE: To deployment using Terraform with a standard AWS EC2 instance (not to a specific AMI), t2.2xlarge, running Ubuntu.  <a href="https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure" target="_blank">Click here</a>._
 
 
