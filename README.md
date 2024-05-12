@@ -30,3 +30,11 @@
 
 
 <img width="1181" alt="image" src="https://github.com/ubc-tuehoang/Terraform-Launching-META-AI-Llama3-to-a-Specific-AMI-on-AWS-Infrastructure/assets/86985864/4a98849e-8041-462e-ad01-2b26a5a941e5">
+
+
+
+![image](https://github.com/ubc-tuehoang/Terraform-META-AI-to-a-Specific-AMI-on-AWS/assets/86985864/6753a3a0-5658-494c-b346-4c676230e9c5)
+
+
+
+EOF
