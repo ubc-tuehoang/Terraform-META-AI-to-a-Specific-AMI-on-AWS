@@ -19,7 +19,7 @@
 
 - Controlled Access: Restricted AMIs limit access to authorized users or groups, preventing unauthorized modifications or deployments and maintaining the integrity of the underlying infrastructure.
 
-- Simplified Compliance: Unique and restricted AMIs facilitate compliance efforts by providing a known and auditable baseline configuration, making it easier to track changes, enforce policies, and demonstrate regulatory compliance to auditors or stakeholders.
+- Simplified Compliance: Unique and restricted AMIs facilitate compliance efforts by providing a known and auditable baseline configuration, making it easier to track changes, enforce policies and PI, and demonstrate regulatory compliance to auditors or stakeholders.
 
 
 ### <ins>while retaining the ability to maintain distinct conversations with each unique GenAI.</ins>
