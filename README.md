@@ -90,8 +90,11 @@ _Prompt example 2. Staying within the current conversation, what are the neurolo
 
 
 
-_NOTE: To deployment using Terraform with a standard AWS EC2 instance (not to a specific AMI), t2.2xlarge, running Ubuntu.  <a href="https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure" target="_blank">Click here</a>._
+_NOTE 1: To deployment using Terraform with a standard AWS EC2 instance (not to a specific AMI), t2.2xlarge, running Ubuntu.  <a href="https://github.com/ubc-tuehoang/Terraform-META-AI-Llama3-with-AWS-EC2-Infrastructure" target="_blank">Click here</a>._
 
+
+
+_NOTE 2: To deployment using Codespaces with a machine type has a minimum of 8 cores and 32GB RAM, 64GB.  <a href="https://github.com/ubc-tuehoang/META-AI-with-LLAMA3-from-Codespaces" target="_blank">Click here</a>._
 
 
 
