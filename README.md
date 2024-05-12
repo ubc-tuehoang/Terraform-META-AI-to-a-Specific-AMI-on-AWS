@@ -22,4 +22,11 @@
 - Simplified Compliance: Unique and restricted AMIs facilitate compliance efforts by providing a known and auditable baseline configuration, making it easier to track changes, enforce policies, and demonstrate regulatory compliance to auditors or stakeholders.
 
 
+### <ins>while retaining the ability to maintain distinct conversations with each unique GenAI.</ins>
+
+1. Personalization: By retaining the conversation history, the chatbot can tailor responses and recommendations based on past interactions, providing a more personalized experience for users.
+2. Contextual Understanding: Keeping track of previous conversations allows the chatbot to better understand the context of current queries, leading to more accurate and relevant responses.
+3. Seamless Continuity: Users can pick up where they left off in previous conversations, ensuring a seamless and continuous dialogue with the chatbot, even across multiple sessions.
+
+
 <img width="1181" alt="image" src="https://github.com/ubc-tuehoang/Terraform-Launching-META-AI-Llama3-to-a-Specific-AMI-on-AWS-Infrastructure/assets/86985864/4a98849e-8041-462e-ad01-2b26a5a941e5">
