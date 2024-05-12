@@ -28,6 +28,10 @@
 2. Contextual Understanding: Keeping track of previous conversations allows the chatbot to better understand the context of current queries, leading to more accurate and relevant responses.
 3. Seamless Continuity: Users can pick up where they left off in previous conversations, ensuring a seamless and continuous dialogue with the chatbot, even across multiple sessions.
 
+_Prompt example 1. Stay within the current theme of the conversation and create an abstract image that represents the concept of fluidity and audacity in a three-dimensional space._
+
+
+### <ins>Conceptual flow of Terraforming process</ins>
 
 <img width="1181" alt="image" src="https://github.com/ubc-tuehoang/Terraform-Launching-META-AI-Llama3-to-a-Specific-AMI-on-AWS-Infrastructure/assets/86985864/4a98849e-8041-462e-ad01-2b26a5a941e5">
 
